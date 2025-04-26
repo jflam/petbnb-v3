@@ -8,6 +8,6 @@
     "bootstrap": "bash scripts/bootstrap.sh"
   },
   "devDependencies": {
-    "concurrently": "8.2.1"
+    "concurrently": "^8.2.1"
   }
 }
